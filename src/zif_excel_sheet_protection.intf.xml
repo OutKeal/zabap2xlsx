@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_INTF" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOINTERF>
+    <CLSNAME>ZIF_EXCEL_SHEET_PROTECTION</CLSNAME>
+    <LANGU>1</LANGU>
+    <DESCRIPT>Sheet protection</DESCRIPT>
+    <EXPOSURE>2</EXPOSURE>
+    <STATE>1</STATE>
+    <UNICODE>X</UNICODE>
+   </VSEOINTERF>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CMPNAME>AUTO_FILTER</CMPNAME>
+     <LANGU>1</LANGU>
+     <DESCRIPT>Autofilters are locked when the sheet is protected</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_ACTIVE</CMPNAME>
+     <LANGU>1</LANGU>
+     <DESCRIPT>Sheet protection indicator</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_NOACTIVE</CMPNAME>
+     <LANGU>1</LANGU>
+     <DESCRIPT>Sheet protection indicator</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_PROTECTED</CMPNAME>
+     <LANGU>1</LANGU>
+     <DESCRIPT>Sheet protection indicator</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_UNPROTECTED</CMPNAME>
+     <LANGU>1</LANGU>
+     <DESCRIPT>Sheet protection indicator</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>DELETE_COLUMNS</CMPNAME>
+     <LANGU>1</LANGU>
+     <DESCRIPT>Deleting columns is locked when the sheet is protected</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>DELETE_ROWS</CMPNAME>
+     <LANGU>1</LANGU>
+     <DESCRIPT>Deleting rows is locked when the sheet is protected</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>FORMAT_CELLS</CMPNAME>
+     <LANGU>1</LANGU>
+     <DESCRIPT>Formatting cells is locked when the sheet is protected</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>FORMAT_COLUMNS</CMPNAME>
+     <LANGU>1</LANGU>
+     <DESCRIPT>Formatting columns is locked when the sheet is protected</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>FORMAT_ROWS</CMPNAME>
+     <LANGU>1</LANGU>
+     <DESCRIPT>Formatting rows is locked when the sheet is protected</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>INITIALIZE</CMPNAME>
+     <LANGU>1</LANGU>
+     <DESCRIPT>Initialize protection</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>INSERT_COLUMNS</CMPNAME>
+     <LANGU>1</LANGU>
+     <DESCRIPT>Inserting columns is locked when the sheet is protected</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>INSERT_HYPERLINKS</CMPNAME>
+     <LANGU>1</LANGU>
+     <DESCRIPT>Inserting hyperlinks is locked when the sheet is protected</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>INSERT_ROWS</CMPNAME>
+     <LANGU>1</LANGU>
+     <DESCRIPT>Inserting rows is locked when the sheet is protected</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>OBJECTS</CMPNAME>
+     <LANGU>1</LANGU>
+     <DESCRIPT>Objects are locked when the sheet is protected</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>PASSWORD</CMPNAME>
+     <LANGU>1</LANGU>
+     <DESCRIPT>AES Password</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>PIVOT_TABLES</CMPNAME>
+     <LANGU>1</LANGU>
+     <DESCRIPT>Pivot tables are locked when the sheet is protected</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>PROTECTED</CMPNAME>
+     <LANGU>1</LANGU>
+     <DESCRIPT>Sheet protection indicator</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>SCENARIOS</CMPNAME>
+     <LANGU>1</LANGU>
+     <DESCRIPT>Scenarios are locked when the sheet is protected</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>SELECT_LOCKED_CELLS</CMPNAME>
+     <LANGU>1</LANGU>
+     <DESCRIPT>Selection of locked cells is locked when the sheet is protec</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>SELECT_UNLOCKED_CELLS</CMPNAME>
+     <LANGU>1</LANGU>
+     <DESCRIPT>Selection of unlocked cells is locked when the sheet is prot</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>SHEET</CMPNAME>
+     <LANGU>1</LANGU>
+     <DESCRIPT>Sheet is locked when the sheet is protected</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>SORT</CMPNAME>
+     <LANGU>1</LANGU>
+     <DESCRIPT>Sorting is locked when the sheet is protected</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

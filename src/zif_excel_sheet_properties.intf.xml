@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_INTF" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOINTERF>
+    <CLSNAME>ZIF_EXCEL_SHEET_PROPERTIES</CLSNAME>
+    <LANGU>1</LANGU>
+    <DESCRIPT>Sheet properties</DESCRIPT>
+    <EXPOSURE>2</EXPOSURE>
+    <STATE>1</STATE>
+    <UNICODE>X</UNICODE>
+   </VSEOINTERF>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CMPNAME>C_BELOW_OFF</CMPNAME>
+     <LANGU>1</LANGU>
+     <DESCRIPT>Outline summary below/right</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_BELOW_ON</CMPNAME>
+     <LANGU>1</LANGU>
+     <DESCRIPT>Outline summary below/right</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_HIDDEN</CMPNAME>
+     <LANGU>1</LANGU>
+     <DESCRIPT>Hidden property</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_HIDEZERO</CMPNAME>
+     <LANGU>1</LANGU>
+     <DESCRIPT>Show zeros</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_RIGHT_OFF</CMPNAME>
+     <LANGU>1</LANGU>
+     <DESCRIPT>Outline summary below/right</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_RIGHT_ON</CMPNAME>
+     <LANGU>1</LANGU>
+     <DESCRIPT>Outline summary below/right</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_SELECTED</CMPNAME>
+     <LANGU>1</LANGU>
+     <DESCRIPT>Selected property</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_SHOWZERO</CMPNAME>
+     <LANGU>1</LANGU>
+     <DESCRIPT>Show zeros</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_VERYHIDDEN</CMPNAME>
+     <LANGU>1</LANGU>
+     <DESCRIPT>Hidden property</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>C_VISIBLE</CMPNAME>
+     <LANGU>1</LANGU>
+     <DESCRIPT>Hidden property</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>GET_STYLE</CMPNAME>
+     <LANGU>1</LANGU>
+     <DESCRIPT>Set Style Property</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>HIDDEN</CMPNAME>
+     <LANGU>1</LANGU>
+     <DESCRIPT>Hidden property</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>HIDE_COLUMNS_FROM</CMPNAME>
+     <LANGU>1</LANGU>
+     <DESCRIPT>Cell Column</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>INITIALIZE</CMPNAME>
+     <LANGU>1</LANGU>
+     <DESCRIPT>Inizialize sheet properties</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>SELECTED</CMPNAME>
+     <LANGU>1</LANGU>
+     <DESCRIPT>Selected property</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>SET_STYLE</CMPNAME>
+     <LANGU>1</LANGU>
+     <DESCRIPT>Get Style Property</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>SHOW_ZEROS</CMPNAME>
+     <LANGU>1</LANGU>
+     <DESCRIPT>Show zeros</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>STYLE</CMPNAME>
+     <LANGU>1</LANGU>
+     <DESCRIPT>Style identifier</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>SUMMARYBELOW</CMPNAME>
+     <LANGU>1</LANGU>
+     <DESCRIPT>Outline summary below/right</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>SUMMARYRIGHT</CMPNAME>
+     <LANGU>1</LANGU>
+     <DESCRIPT>Outline summary below/right</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>ZOOMSCALE</CMPNAME>
+     <LANGU>1</LANGU>
+     <DESCRIPT>Sheet Zoom Scale</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>ZOOMSCALE_NORMAL</CMPNAME>
+     <LANGU>1</LANGU>
+     <DESCRIPT>Sheet Zoom Scale</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>ZOOMSCALE_PAGELAYOUTVIEW</CMPNAME>
+     <LANGU>1</LANGU>
+     <DESCRIPT>Sheet Zoom Scale</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>ZOOMSCALE_SHEETLAYOUTVIEW</CMPNAME>
+     <LANGU>1</LANGU>
+     <DESCRIPT>Sheet Zoom Scale</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

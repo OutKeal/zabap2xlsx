@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZCL_EXCEL_WRITER_CSV</CLSNAME>
+    <LANGU>1</LANGU>
+    <DESCRIPT>Excel writer 2007</DESCRIPT>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CMPNAME>CREATE</CMPNAME>
+     <LANGU>1</LANGU>
+     <DESCRIPT>Create</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>CREATE</CMPNAME>
+     <LANGU>I</LANGU>
+     <DESCRIPT>Create</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>CREATE_CSV</CMPNAME>
+     <LANGU>1</LANGU>
+     <DESCRIPT>Create CSV ; Delimited format</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>CREATE_CSV</CMPNAME>
+     <LANGU>I</LANGU>
+     <DESCRIPT>Create CSV ; Delimited format</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>DELIMITER</CMPNAME>
+     <LANGU>1</LANGU>
+     <DESCRIPT>Delimiter</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>DELIMITER</CMPNAME>
+     <LANGU>I</LANGU>
+     <DESCRIPT>Delimiter</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>ENCLOSURE</CMPNAME>
+     <LANGU>1</LANGU>
+     <DESCRIPT>Text inclusure character</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>ENCLOSURE</CMPNAME>
+     <LANGU>I</LANGU>
+     <DESCRIPT>Text inclusure character</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>EOL</CMPNAME>
+     <LANGU>1</LANGU>
+     <DESCRIPT>End Of line</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>EOL</CMPNAME>
+     <LANGU>I</LANGU>
+     <DESCRIPT>End Of line</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>EXCEL</CMPNAME>
+     <LANGU>1</LANGU>
+     <DESCRIPT>Excel creator</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>EXCEL</CMPNAME>
+     <LANGU>I</LANGU>
+     <DESCRIPT>Excel creator</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>SET_ACTIVE_SHEET_INDEX</CMPNAME>
+     <LANGU>1</LANGU>
+     <DESCRIPT>Activate worksheet by index before the CSV file creation</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>SET_ACTIVE_SHEET_INDEX</CMPNAME>
+     <LANGU>I</LANGU>
+     <DESCRIPT>Activate worksheet by index before the CSV file creation</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>SET_ACTIVE_SHEET_INDEX_BY_NAME</CMPNAME>
+     <LANGU>1</LANGU>
+     <DESCRIPT>Activate worksheet by name before the CSV file creation</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>SET_ACTIVE_SHEET_INDEX_BY_NAME</CMPNAME>
+     <LANGU>I</LANGU>
+     <DESCRIPT>Activate worksheet by name before the CSV file creation</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>SET_DELIMITER</CMPNAME>
+     <LANGU>1</LANGU>
+     <DESCRIPT>Set Delimiter value</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>SET_DELIMITER</CMPNAME>
+     <LANGU>I</LANGU>
+     <DESCRIPT>Set Delimiter value</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>SET_ENCLOSURE</CMPNAME>
+     <LANGU>1</LANGU>
+     <DESCRIPT>Set Enclosure character</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>SET_ENCLOSURE</CMPNAME>
+     <LANGU>I</LANGU>
+     <DESCRIPT>Set Enclosure character</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>SET_ENDOFLINE</CMPNAME>
+     <LANGU>1</LANGU>
+     <DESCRIPT>Set End Of Line character</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>SET_ENDOFLINE</CMPNAME>
+     <LANGU>I</LANGU>
+     <DESCRIPT>Set End Of Line character</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>WORKSHEET_INDEX</CMPNAME>
+     <LANGU>1</LANGU>
+     <DESCRIPT>Active Worksheet</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>WORKSHEET_INDEX</CMPNAME>
+     <LANGU>I</LANGU>
+     <DESCRIPT>Active Worksheet</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>WORKSHEET_NAME</CMPNAME>
+     <LANGU>1</LANGU>
+     <DESCRIPT>Worksheets name</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>WORKSHEET_NAME</CMPNAME>
+     <LANGU>I</LANGU>
+     <DESCRIPT>Worksheets name</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
